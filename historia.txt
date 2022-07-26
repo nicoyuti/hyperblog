@@ -1,4 +1,2 @@
 Probando Git. 
-Ya hicimos nuestro primer commit, ahora vamos por el segudno. 
-Agregamos linea despues del html y del css.
-agregamos una linea mas por que no?
+Hmmm no añadiremos mas lineas.
